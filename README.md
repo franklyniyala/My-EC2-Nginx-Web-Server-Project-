@@ -13,16 +13,22 @@ Also to install an Nginx server into the EC2 instance and enable the server.
 # Major Activities of this Project
 - Installed an AWS cli
 - Configured the AWS cli for the project
+  ![Installation and Configure of AWSCLI](screenshots/1_install_config.png)
 - Launched an EC2 Instance
+  ![The amazon ec2](screenshots/1_ec2.png)
   - Created a key-pair
-  - Create a security group 
+  - Create a security group
+    ![key-pair and security-group](screenshots/1_key_security.png) 
   - Described the amazon machine image (AMI)
 - Connected to the EC2 server via command-line secure shell (SSH)
+  ![EC2 ssh connection](screenshots/1_ssh.png)
 - Installed Nginx into the EC2 instance
   - started Nginx
   - Enabled Nginx
   - Checked its functionality (running)
+    ![Nginx server](1_nginx.png)
 - Hosted an HTML web
 - Checked the functionality of Nginx with HTML web
+  ![HTML web functionality](1_nginx_server.png)
 # Screenshots 
 The screenshots of the project is uploaded.
